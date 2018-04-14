@@ -1,4 +1,7 @@
-print ("Hello IC")
 print ("Hello RJ")
 print ("Hello UFF")
+print ("Hello Uff")
 print ("Hello Brasil")
+print ("Hello IC")
+print ("Hello Predio 1") 
+print ("Hello IC")
